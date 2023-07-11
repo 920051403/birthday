@@ -34,7 +34,7 @@ var config = {
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "静静点这儿",
-        play: "加点音乐",
+        play: "加点音乐吧",
         bannar_coming: "加点儿颜色",
         balloons_flying: "好像少还点东西",
         cake_fadein: "蛋糕？",
